@@ -8,6 +8,6 @@
 resource "aws_vpc" "example" {
   cidr_block = "18.8.0.0/16"
   tags = {
-      Name = "atanas-test"
+      Name = "atanas-test1"
   }
 }
